@@ -6,7 +6,7 @@ package com.mt.sample;
  */
 import java.util.Date;
 
-public class HelloWorld {
+public class HelloWorlld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Welcome to Build Tool !! Today Date is it:  " + getLocalCurrentDate());
