@@ -7,7 +7,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for HelloWorld2.
  */
-public class HelloWorldTest 
+public class HelloWorldTest2 
     extends TestCase
 {
     /**
