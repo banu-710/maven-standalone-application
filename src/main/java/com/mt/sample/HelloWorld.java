@@ -1,7 +1,7 @@
 package com.mt.sample;
 
 /**
- * Hello world!
+ * Hello world2!
  *
  */
 import java.util.Date;
